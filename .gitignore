@@ -5,4 +5,4 @@
 /next.config.ts
 /node_modules
 /package-lock.json
-.idea/
+.idea//tsconfig.tsbuildinfo
