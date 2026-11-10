@@ -8,8 +8,10 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Tech Root 777 | Apps & Digital Experiences",
-  description: "Organization focused on building apps and digital experiences. Discover our projects including OtaQuotes and more.",
+  metadataBase: new URL("https://techroot-page.vercel.app"),
+  title: "Tech Root 777 | Apps simples, privados e leves",
+  description:
+    "Estúdio indie de apps para Android: Compressor de Fotos, Nível e Bússola e OtaQuotes. Offline, sem cadastro e gratuitos.",
 };
 
 export default function RootLayout({

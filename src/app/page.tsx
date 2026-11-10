@@ -1,13 +1,15 @@
 import Hero from "@/components/Hero";
-import ProjectsSection from "@/components/ProjectsSection";
-import AboutSection from "@/components/AboutSection";
+import AppsSection from "@/components/AppsSection";
+import Principles from "@/components/Principles";
+import Contact from "@/components/Contact";
 
 export default function Home() {
   return (
     <>
       <Hero />
-      <ProjectsSection />
-      <AboutSection />
+      <AppsSection />
+      <Principles />
+      <Contact />
     </>
   );
 }
