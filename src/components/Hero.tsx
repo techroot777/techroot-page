@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { ArrowRight, Mail } from "lucide-react";
+import { ArrowRight } from "lucide-react";
 import { projects } from "@/data/projects";
 import PhoneMockup from "./PhoneMockup";
 import Reveal from "./Reveal";
@@ -39,12 +39,6 @@ export default function Hero() {
               className="inline-flex items-center gap-2 rounded-full bg-accent px-6 py-3 text-sm font-medium text-white transition hover:opacity-90"
             >
               Ver apps <ArrowRight size={16} aria-hidden />
-            </Link>
-            <Link
-              href="/#contato"
-              className="inline-flex items-center gap-2 rounded-full border border-zinc-300 px-6 py-3 text-sm font-medium transition hover:bg-zinc-100 dark:border-zinc-700 dark:hover:bg-zinc-800"
-            >
-              <Mail size={16} aria-hidden /> Contato
             </Link>
           </div>
         </Reveal>

@@ -10,7 +10,6 @@ const navLinks = [
   { href: "/#apps", label: "Apps" },
   { href: "/#principios", label: "Princípios" },
   { href: "/privacidade", label: "Privacidade" },
-  { href: "/#contato", label: "Contato" },
 ];
 
 export default function Header() {

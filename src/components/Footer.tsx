@@ -11,7 +11,8 @@ export default function Footer() {
         <div>
           <p className="font-semibold">Tech Root 777</p>
           <p className="mt-2 text-sm text-muted-foreground">
-            Projetos pessoais de hobby.
+            Projetos pessoais de hobby. Feedback e suporte por e-mail; as
+            respostas podem levar um tempo.
           </p>
         </div>
 
@@ -29,7 +30,7 @@ export default function Footer() {
         </div>
 
         <div>
-          <p className="text-sm font-semibold">Mais</p>
+          <p className="text-sm font-semibold">Links e contato</p>
           <ul className="mt-3 space-y-2 text-sm text-muted-foreground">
             <li>
               <Link href="/privacidade" className="hover:text-foreground">

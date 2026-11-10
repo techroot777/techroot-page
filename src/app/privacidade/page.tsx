@@ -41,11 +41,7 @@ export default function PrivacyPage() {
           ))}
         </ul>
         <p className="mt-10 text-sm text-muted-foreground">
-          Dúvidas sobre privacidade? Escreva para{" "}
-          <a className="underline" href="mailto:techroot777@gmail.com">
-            techroot777@gmail.com
-          </a>
-          .
+          Dúvidas sobre privacidade? O contato está no rodapé da página.
         </p>
       </div>
     </section>
