@@ -11,7 +11,7 @@ export default function Footer() {
         <div>
           <p className="font-semibold">Tech Root 777</p>
           <p className="mt-2 text-sm text-muted-foreground">
-            Apps simples, privados e leves.
+            Projetos pessoais de hobby.
           </p>
         </div>
 

@@ -8,10 +8,10 @@ export default function AppsSection() {
       <div className="mx-auto max-w-6xl">
         <Reveal className="mb-12 text-center">
           <h2 className="text-3xl font-bold tracking-tight md:text-4xl">
-            Nossos apps
+            Apps
           </h2>
           <p className="mx-auto mt-3 max-w-xl text-muted-foreground">
-            Todos disponíveis no Google Play, gratuitos e mantidos por anúncios.
+            Disponíveis no Google Play, gratuitos e mantidos por anúncios.
           </p>
         </Reveal>
         <div className="grid gap-6 md:grid-cols-2">

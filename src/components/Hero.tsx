@@ -29,9 +29,9 @@ export default function Hero() {
             </span>
           </h1>
           <p className="mt-6 max-w-xl text-lg leading-relaxed text-muted-foreground">
-            A Tech Root 777 é um estúdio indie que cria ferramentas úteis para o
-            dia a dia: funcionam offline, não pedem cadastro e respeitam a sua
-            privacidade.
+            A Tech Root 777 reúne projetos pessoais, feitos por hobby: pequenas
+            ferramentas para o dia a dia que funcionam offline, não pedem
+            cadastro e respeitam a sua privacidade.
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Link

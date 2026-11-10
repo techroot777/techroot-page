@@ -30,10 +30,10 @@ export default function Principles() {
       <div className="mx-auto max-w-6xl">
         <Reveal className="mb-12 text-center">
           <h2 className="text-3xl font-bold tracking-tight md:text-4xl">
-            Como trabalhamos
+            Princípios dos apps
           </h2>
           <p className="mx-auto mt-3 max-w-xl text-muted-foreground">
-            Poucos princípios, aplicados em todos os apps.
+            Poucas regras, seguidas em todos os projetos.
           </p>
         </Reveal>
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">

@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://techroot-page.vercel.app"),
   title: "Tech Root 777 | Apps simples, privados e leves",
   description:
-    "Estúdio indie de apps para Android: Compressor de Fotos, Nível e Bússola e OtaQuotes. Offline, sem cadastro e gratuitos.",
+    "Projetos pessoais de hobby: apps para Android como Compressor de Fotos, Nível e Bússola e OtaQuotes. Offline, sem cadastro e gratuitos.",
 };
 
 export default function RootLayout({

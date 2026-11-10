@@ -3,7 +3,7 @@
 Estado de partida: site de uma página, ~364 linhas, cards de texto com o mesmo ícone genérico, só em português, sem detalhe dos projetos. Stack atual: Next 15, Tailwind 4, framer-motion, lucide-react, next-themes.
 
 ## 1. Direção visual
-- Portfólio moderno de estúdio indie, no padrão de Linear, Vercel e páginas de app da Apple.
+- Portfólio moderno de projetos pessoais de hobby (sem prestação de serviço), no padrão de Linear, Vercel e páginas de app da Apple.
 - Hero forte, grid "bento" de apps, mockups de celular com screenshots reais, bastante respiro.
 - Cor por app: cada app usa seu accent (Compressor `#2563EB`, Sensors `#22D3EE`, OtaQuotes e próximos) em brilho de fundo, badges e botões.
 - Tema claro e escuro, escuro como padrão. Tipografia Inter, a mesma dos apps.

@@ -14,7 +14,7 @@ export default function PrivacyPage() {
       <div className="mx-auto max-w-2xl">
         <h1 className="text-4xl font-bold tracking-tight">Privacidade</h1>
         <p className="mt-4 text-muted-foreground">
-          Cada app tem a sua política de privacidade. Em geral, nossos apps
+          Cada app tem a sua política de privacidade. Em geral, os apps
           funcionam offline, não pedem cadastro e só usam o que é necessário
           para funcionar e exibir anúncios.
         </p>
@@ -41,7 +41,7 @@ export default function PrivacyPage() {
           ))}
         </ul>
         <p className="mt-10 text-sm text-muted-foreground">
-          Dúvidas? Escreva para{" "}
+          Dúvidas sobre privacidade? Escreva para{" "}
           <a className="underline" href="mailto:techroot777@gmail.com">
             techroot777@gmail.com
           </a>
